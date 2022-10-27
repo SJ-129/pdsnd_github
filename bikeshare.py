@@ -93,7 +93,6 @@ def filter_select():
             break
         else:
             invalid_input()
-    
     return city, month, day
 
 
