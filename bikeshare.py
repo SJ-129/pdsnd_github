@@ -225,6 +225,7 @@ def user_stats(df, city):
         print('- Most common birth year:','{:.0f}'.format(mode_birth_year))
 
     horiz_separator()
+    
 def raw_data(df):
     '''#raw data section. asks user if they want to see raw data or not.
     if yes, they can continuously view 5 rows of consecutive data.
