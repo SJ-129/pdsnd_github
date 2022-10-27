@@ -1,17 +1,22 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+2022/10/27
 
 ### Project Title
-Replace the Project Title
+Bikeshare Python Project
 
 ### Description
-Describe what your project is about and what it does
+Using Python to analyse bike data from three different cities in the US
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/questions/69047803/take-an-element-from-a-list-and-assign-it-to-a-variable
+https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
+https://iq.opengenus.org/terminate-program-in-python/
+https://researchdatapod.com/python-valueerror-too-many-values-to-unpack-expected-2/
+https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
 
