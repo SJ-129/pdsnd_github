@@ -5,6 +5,7 @@ city_data = {'chicago': 'chicago.csv','new york city': 'new_york_city.csv','wash
 month_data = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
 day_data = ['all', 'monday', 'tuesday', 'wednesday','thursday', 'friday', 'saturday', 'sunday']
 
+#Opening message waiting for user input
 print('Hello! Let\'s explore some US bikeshare data!')
    
 def invalid_input():
