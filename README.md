@@ -5,7 +5,7 @@
 Bikeshare Python Project
 
 ### Description
-Using Python to analyse bike data from three different cities in the US
+Using Python to analyse bike data from three different cities in the US.
 
 ### Files used
 bikeshare.py
